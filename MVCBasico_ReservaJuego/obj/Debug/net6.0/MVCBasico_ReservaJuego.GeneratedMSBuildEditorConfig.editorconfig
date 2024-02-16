@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVCBasico_ReservaJuego
+build_property.RootNamespace = MVCBasico_ReservaJuego
+build_property.ProjectDir = C:\Users\Germán\Desktop\PNT1\TP3_ReservaJuego_Prueba - copia\MVCBasico_ReservaJuego\MVCBasico_ReservaJuego\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Germán\Desktop\PNT1\TP3_ReservaJuego_Prueba - copia\MVCBasico_ReservaJuego\MVCBasico_ReservaJuego
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Germán/Desktop/PNT1/TP3_ReservaJuego_Prueba - copia/MVCBasico_ReservaJuego/MVCBasico_ReservaJuego/Views/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Germán/Desktop/PNT1/TP3_ReservaJuego_Prueba - copia/MVCBasico_ReservaJuego/MVCBasico_ReservaJuego/Views/Cliente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Germán/Desktop/PNT1/TP3_ReservaJuego_Prueba - copia/MVCBasico_ReservaJuego/MVCBasico_ReservaJuego/Views/Cliente/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Germán/Desktop/PNT1/TP3_ReservaJuego_Prueba - copia/MVCBasico_ReservaJuego/MVCBasico_ReservaJuego/Views/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Germán/Desktop/PNT1/TP3_ReservaJuego_Prueba - copia/MVCBasico_ReservaJuego/MVCBasico_ReservaJuego/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Germán/Desktop/PNT1/TP3_ReservaJuego_Prueba - copia/MVCBasico_ReservaJuego/MVCBasico_ReservaJuego/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Germán/Desktop/PNT1/TP3_ReservaJuego_Prueba - copia/MVCBasico_ReservaJuego/MVCBasico_ReservaJuego/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Germán/Desktop/PNT1/TP3_ReservaJuego_Prueba - copia/MVCBasico_ReservaJuego/MVCBasico_ReservaJuego/Views/Juego/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVlZ29cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Germán/Desktop/PNT1/TP3_ReservaJuego_Prueba - copia/MVCBasico_ReservaJuego/MVCBasico_ReservaJuego/Views/Juego/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVlZ29cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Germán/Desktop/PNT1/TP3_ReservaJuego_Prueba - copia/MVCBasico_ReservaJuego/MVCBasico_ReservaJuego/Views/Juego/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVlZ29cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Germán/Desktop/PNT1/TP3_ReservaJuego_Prueba - copia/MVCBasico_ReservaJuego/MVCBasico_ReservaJuego/Views/Juego/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVlZ29cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Germán/Desktop/PNT1/TP3_ReservaJuego_Prueba - copia/MVCBasico_ReservaJuego/MVCBasico_ReservaJuego/Views/Juego/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVlZ29cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Germán/Desktop/PNT1/TP3_ReservaJuego_Prueba - copia/MVCBasico_ReservaJuego/MVCBasico_ReservaJuego/Views/Reserva/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Germán/Desktop/PNT1/TP3_ReservaJuego_Prueba - copia/MVCBasico_ReservaJuego/MVCBasico_ReservaJuego/Views/Reserva/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Germán/Desktop/PNT1/TP3_ReservaJuego_Prueba - copia/MVCBasico_ReservaJuego/MVCBasico_ReservaJuego/Views/Reserva/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Germán/Desktop/PNT1/TP3_ReservaJuego_Prueba - copia/MVCBasico_ReservaJuego/MVCBasico_ReservaJuego/Views/Reserva/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Germán/Desktop/PNT1/TP3_ReservaJuego_Prueba - copia/MVCBasico_ReservaJuego/MVCBasico_ReservaJuego/Views/Reserva/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Germán/Desktop/PNT1/TP3_ReservaJuego_Prueba - copia/MVCBasico_ReservaJuego/MVCBasico_ReservaJuego/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Germán/Desktop/PNT1/TP3_ReservaJuego_Prueba - copia/MVCBasico_ReservaJuego/MVCBasico_ReservaJuego/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Germán/Desktop/PNT1/TP3_ReservaJuego_Prueba - copia/MVCBasico_ReservaJuego/MVCBasico_ReservaJuego/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Germán/Desktop/PNT1/TP3_ReservaJuego_Prueba - copia/MVCBasico_ReservaJuego/MVCBasico_ReservaJuego/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Germán/Desktop/PNT1/TP3_ReservaJuego_Prueba - copia/MVCBasico_ReservaJuego/MVCBasico_ReservaJuego/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vbixv4rde5

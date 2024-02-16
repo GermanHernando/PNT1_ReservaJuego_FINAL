@@ -1,0 +1,61 @@
+﻿@model MVCBasico_ReservaJuego.Models.Juego
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Juego</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NombreJuego)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NombreJuego)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.EdadJugadores)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.EdadJugadores)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CantJugadoresMin)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CantJugadoresMin)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CantJugadoresMax)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CantJugadoresMax)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Categoria)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Categoria)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Dificultad)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Dificultad)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CantFichas)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CantFichas)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.IdJuego">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
